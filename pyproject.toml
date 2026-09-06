@@ -16,6 +16,6 @@ Repository = "https://github.com/Kiriouchine/CiviImport"
 # .github/workflows/publish.yml, which needs the REGISTRY_ACCESS_TOKEN secret.
 # Note: [project].name is the immutable registry identifier — keep 'civiimport'.
 [tool.comfy]
-PublisherId = ""
+PublisherId = "kiriouchine"
 DisplayName = "CiviImport — Civitai Import"
-Icon = ""
+Icon = "https://raw.githubusercontent.com/Kiriouchine/CiviImport/main/icon.svg"
